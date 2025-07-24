@@ -1,4 +1,4 @@
 # MyFirstClass
 This is my first GitHub repository 
 <br>
-Author - Sujal Saklania. 
+Author - Sujal Saklania(Sheridan College). 
